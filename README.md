@@ -17,7 +17,6 @@ The project involves exploring a diabetes dataset, analyzing relationships betwe
 
 - `Assignment_2_Diabetes_Classification.docx` – Assignment instructions and questions.
 - `Diabetes_Understanding_the_Dataset.docx` – Guide explaining the dataset and its features.
-- `confusion_matrix_thresholds.png` – Visualization of confusion matrices at different classification thresholds.
 - `.gitignore` – Specifies files and folders that Git should ignore.
 
 ## How to Run
